@@ -38,12 +38,14 @@
     display: inline-block;
     width: 250px;
     text-align: center;
+    padding-left: 30px;
 }
 
 hr {
     width: 300px;
     justify-content: center;
     background-color: #b5a0a0;
+    padding-left: 50px;
     border: none;
     height: 2px;
 }
@@ -54,5 +56,11 @@ h3 {
 
 hr {
     margin: auto;
+}
+
+img {
+    width: 40px;
+    height: auto;
+    padding-right: 120px;
 }
 
