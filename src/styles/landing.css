@@ -1,0 +1,66 @@
+#root .landing-container {
+    min-height: 100vh;
+    max-height: 100%;
+}
+
+#root .landing-container::after {
+    content: "";
+    background: url('../round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    top: 0;
+    left: 0;
+    position: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.landing-header {
+    position: absolute;
+    width: 30%;
+    height: content-box;
+    z-index: 15;
+    top: 50%;
+    right: 10%;
+    margin: -100px 0 0 -50px;
+    font-family: 'serif', sans-serif;
+    font-size: 170%;
+}
+
+.title {
+    color: black;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    padding-left: 30px;
+}
+
+hr {
+    width: 300px;
+    justify-content: center;
+    background-color: #b5a0a0;
+    padding-left: 50px;
+    border: none;
+    height: 2px;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+hr {
+    margin: auto;
+}
+
+img {
+    width: 40px;
+    height: auto;
+    padding-right: 120px;
+}
+
