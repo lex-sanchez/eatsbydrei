@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eatsbydrei/static/css/main.048b2473.chunk.css",
+    "main.js": "/eatsbydrei/static/js/main.21770a9f.chunk.js",
+    "main.js.map": "/eatsbydrei/static/js/main.21770a9f.chunk.js.map",
+    "runtime-main.js": "/eatsbydrei/static/js/runtime-main.b985fdfe.js",
+    "runtime-main.js.map": "/eatsbydrei/static/js/runtime-main.b985fdfe.js.map",
+    "static/js/2.b6c8e6ff.chunk.js": "/eatsbydrei/static/js/2.b6c8e6ff.chunk.js",
+    "static/js/2.b6c8e6ff.chunk.js.map": "/eatsbydrei/static/js/2.b6c8e6ff.chunk.js.map",
+    "index.html": "/eatsbydrei/index.html",
+    "precache-manifest.a9c4e3d4244de283c013de7c46073fb6.js": "/eatsbydrei/precache-manifest.a9c4e3d4244de283c013de7c46073fb6.js",
+    "service-worker.js": "/eatsbydrei/service-worker.js",
+    "static/css/main.048b2473.chunk.css.map": "/eatsbydrei/static/css/main.048b2473.chunk.css.map",
+    "static/js/2.b6c8e6ff.chunk.js.LICENSE.txt": "/eatsbydrei/static/js/2.b6c8e6ff.chunk.js.LICENSE.txt",
+    "static/media/glyph-logo_May2016.png": "/eatsbydrei/static/media/glyph-logo_May2016.0e84d592.png",
+    "static/media/landing.css": "/eatsbydrei/static/media/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545.3ecfd731.jpg",
+    "static/media/youtube-1.png": "/eatsbydrei/static/media/youtube-1.131fabda.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b985fdfe.js",
+    "static/js/2.b6c8e6ff.chunk.js",
+    "static/css/main.048b2473.chunk.css",
+    "static/js/main.21770a9f.chunk.js"
+  ]
+}
