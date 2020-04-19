@@ -3,8 +3,10 @@ import styles from '../styles/landing.css';
 import instagramImg from '../glyph-logo_May2016.png';
 import facebookImg from "../facebook.png";
 import youtubeImg from "../youtube-1.png";
+import SidebarButton from "./SidebarButton";
 
 const Landing = props => {
+    console.log(props);
   return (
       <div className="landing-container" >
           <div className="landing-header">
