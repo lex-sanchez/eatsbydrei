@@ -17,11 +17,11 @@ const Landing = props => {
               <div className="motto">
                   <h3>Cook. Photograph. Repeat.</h3>
               </div>
-            <img src={instagramImg} alt="instagram" />
+              <div className="social-container">
+              <img src={instagramImg} alt="instagram" />
             <img src={facebookImg} alt="facebook" />
             <img src={youtubeImg} alt="youtube" />
           </div>
-          <div className="social-container">
           </div>
       </div>
   )
