@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eatsbydrei/static/css/main.72ab987d.chunk.css",
-    "main.js": "/eatsbydrei/static/js/main.65dbf354.chunk.js",
-    "main.js.map": "/eatsbydrei/static/js/main.65dbf354.chunk.js.map",
+    "main.css": "/eatsbydrei/static/css/main.f54543ba.chunk.css",
+    "main.js": "/eatsbydrei/static/js/main.190be44b.chunk.js",
+    "main.js.map": "/eatsbydrei/static/js/main.190be44b.chunk.js.map",
     "runtime-main.js": "/eatsbydrei/static/js/runtime-main.b985fdfe.js",
     "runtime-main.js.map": "/eatsbydrei/static/js/runtime-main.b985fdfe.js.map",
     "static/js/2.2b12d1fe.chunk.js": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js",
     "static/js/2.2b12d1fe.chunk.js.map": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js.map",
     "index.html": "/eatsbydrei/index.html",
-    "precache-manifest.49e85c22388a73376fc0edb3ee4b286e.js": "/eatsbydrei/precache-manifest.49e85c22388a73376fc0edb3ee4b286e.js",
+    "precache-manifest.c0a81b9de340c6c49db5b7fe3b31cec6.js": "/eatsbydrei/precache-manifest.c0a81b9de340c6c49db5b7fe3b31cec6.js",
     "service-worker.js": "/eatsbydrei/service-worker.js",
-    "static/css/main.72ab987d.chunk.css.map": "/eatsbydrei/static/css/main.72ab987d.chunk.css.map",
+    "static/css/main.f54543ba.chunk.css.map": "/eatsbydrei/static/css/main.f54543ba.chunk.css.map",
     "static/js/2.2b12d1fe.chunk.js.LICENSE.txt": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js.LICENSE.txt",
     "static/media/glyph-logo_May2016.png": "/eatsbydrei/static/media/glyph-logo_May2016.0e84d592.png",
     "static/media/index.css": "/eatsbydrei/static/media/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545.a4664147.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b985fdfe.js",
     "static/js/2.2b12d1fe.chunk.js",
-    "static/css/main.72ab987d.chunk.css",
-    "static/js/main.65dbf354.chunk.js"
+    "static/css/main.f54543ba.chunk.css",
+    "static/js/main.190be44b.chunk.js"
   ]
 }
