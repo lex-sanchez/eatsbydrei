@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eatsbydrei/static/css/main.72ab987d.chunk.css",
-    "main.js": "/eatsbydrei/static/js/main.425747f3.chunk.js",
-    "main.js.map": "/eatsbydrei/static/js/main.425747f3.chunk.js.map",
+    "main.js": "/eatsbydrei/static/js/main.65dbf354.chunk.js",
+    "main.js.map": "/eatsbydrei/static/js/main.65dbf354.chunk.js.map",
     "runtime-main.js": "/eatsbydrei/static/js/runtime-main.b985fdfe.js",
     "runtime-main.js.map": "/eatsbydrei/static/js/runtime-main.b985fdfe.js.map",
     "static/js/2.2b12d1fe.chunk.js": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js",
     "static/js/2.2b12d1fe.chunk.js.map": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js.map",
     "index.html": "/eatsbydrei/index.html",
-    "precache-manifest.d811e0c270038fb1eebcaf8cc7ff743d.js": "/eatsbydrei/precache-manifest.d811e0c270038fb1eebcaf8cc7ff743d.js",
+    "precache-manifest.a39b61079919afba74659c3838674d2d.js": "/eatsbydrei/precache-manifest.a39b61079919afba74659c3838674d2d.js",
     "service-worker.js": "/eatsbydrei/service-worker.js",
     "static/css/main.72ab987d.chunk.css.map": "/eatsbydrei/static/css/main.72ab987d.chunk.css.map",
     "static/js/2.2b12d1fe.chunk.js.LICENSE.txt": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.b985fdfe.js",
     "static/js/2.2b12d1fe.chunk.js",
     "static/css/main.72ab987d.chunk.css",
-    "static/js/main.425747f3.chunk.js"
+    "static/js/main.65dbf354.chunk.js"
   ]
 }

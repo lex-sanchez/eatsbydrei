@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cde2a854cf9c061cb2c92558587b627a",
+    "revision": "a68f22136827dc53459e864319445650",
     "url": "/eatsbydrei/index.html"
   },
   {
-    "revision": "200e1bbc39776ab0b3aa",
+    "revision": "2de6bd723f9e82b23290",
     "url": "/eatsbydrei/static/css/main.72ab987d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "200e1bbc39776ab0b3aa",
-    "url": "/eatsbydrei/static/js/main.425747f3.chunk.js"
+    "revision": "2de6bd723f9e82b23290",
+    "url": "/eatsbydrei/static/js/main.65dbf354.chunk.js"
   },
   {
     "revision": "7033f9ff06a5ab6cc642",
