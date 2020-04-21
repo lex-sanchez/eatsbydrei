@@ -5,6 +5,7 @@ import {
   Route
 } from 'react-router-dom';
 import Landing from './components/Landing';
+import FoodPosts from "./components/food-page/FoodPosts";
 import './App.css';
 import SidebarButton from "./components/SidebarButton";
 import Sidebar from "./components/Sidebar";
@@ -46,6 +47,7 @@ class App extends React.Component {
               <Switch>
                 <Route exact path="/" render={() => <Landing handleMouseUp={this.handleMouseUp}/>} />
                 <Route exact path="/about" render={() => <button onClick={() => console.log('Dumbass')}>About me</button>} />
+                <Route exact path="/my-food" render={() => <FoodPosts />} />
               </Switch>
             </Router>
         </div>

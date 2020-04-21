@@ -20,6 +20,7 @@ class Sidebar extends Component {
                 <div className="pages-container">
                     <h3><a href="/">Home</a></h3>
                     <h3><a href="/about">About</a></h3>
+                    <h3><a href="/my-food">My food</a></h3>
                     <h3><a href="/contact">Contact Me</a></h3>
                 </div>
             </div>
