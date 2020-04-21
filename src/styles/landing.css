@@ -1,5 +1,5 @@
 .landing-header {
-    position: absolute;
+    position: fixed;
     width: 30%;
     height: content-box;
     z-index: 15;
@@ -12,10 +12,19 @@
 .title {
     color: black;
     display: inline-block;
-    width: 250px;
+    width: auto;
     text-align: center;
     padding-left: 30px;
     font-size: 200%;
+}
+
+.motto {
+    text-align: center;
+}
+
+.motto h3 {
+    font-weight: lighter;
+    font-size: 150%;
 }
 
 hr {
@@ -27,10 +36,6 @@ hr {
     height: 2px;
 }
 
-h3 {
-    font-weight: lighter;
-}
-
 hr {
     margin: auto;
 }
@@ -39,5 +44,27 @@ img {
     width: 40px;
     height: auto;
     padding-right: 120px;
+}
+
+@media (max-width: 768px) {
+    .landing-header {
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        z-index: 15;
+        top: 50%;
+        left: 50%;
+        margin: -100px 0 0 -150px;
+
+        transform: scale(0.8, 0.8);
+        -ms-transform: scale(0.8, 0.8); /* IE 9 */
+        -webkit-transform: scale(0.6, 0.6); /* Safari and Chrome */
+        -o-transform: scale(0.8, 0.8); /* Opera */
+        -moz-transform: scale(0.8, 0.8); /* Firefox */
+    }
+
+    .motto {
+        margin-left: 50px;
+    }
 }
 

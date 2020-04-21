@@ -14,7 +14,9 @@ const Landing = props => {
                 <h1>Eats By Drei</h1>
                   <hr></hr>
               </div>
-            <h3>Cook. Photograph. Repeat.</h3>
+              <div className="motto">
+                  <h3>Cook. Photograph. Repeat.</h3>
+              </div>
             <img src={instagramImg} alt="instagram" />
             <img src={facebookImg} alt="facebook" />
             <img src={youtubeImg} alt="youtube" />
