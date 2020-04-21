@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/eatsbydrei/static/css/main.048b2473.chunk.css",
-    "main.js": "/eatsbydrei/static/js/main.21770a9f.chunk.js",
-    "main.js.map": "/eatsbydrei/static/js/main.21770a9f.chunk.js.map",
+    "main.css": "/eatsbydrei/static/css/main.72ab987d.chunk.css",
+    "main.js": "/eatsbydrei/static/js/main.425747f3.chunk.js",
+    "main.js.map": "/eatsbydrei/static/js/main.425747f3.chunk.js.map",
     "runtime-main.js": "/eatsbydrei/static/js/runtime-main.b985fdfe.js",
     "runtime-main.js.map": "/eatsbydrei/static/js/runtime-main.b985fdfe.js.map",
-    "static/js/2.b6c8e6ff.chunk.js": "/eatsbydrei/static/js/2.b6c8e6ff.chunk.js",
-    "static/js/2.b6c8e6ff.chunk.js.map": "/eatsbydrei/static/js/2.b6c8e6ff.chunk.js.map",
+    "static/js/2.2b12d1fe.chunk.js": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js",
+    "static/js/2.2b12d1fe.chunk.js.map": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js.map",
     "index.html": "/eatsbydrei/index.html",
-    "precache-manifest.a9c4e3d4244de283c013de7c46073fb6.js": "/eatsbydrei/precache-manifest.a9c4e3d4244de283c013de7c46073fb6.js",
+    "precache-manifest.d811e0c270038fb1eebcaf8cc7ff743d.js": "/eatsbydrei/precache-manifest.d811e0c270038fb1eebcaf8cc7ff743d.js",
     "service-worker.js": "/eatsbydrei/service-worker.js",
-    "static/css/main.048b2473.chunk.css.map": "/eatsbydrei/static/css/main.048b2473.chunk.css.map",
-    "static/js/2.b6c8e6ff.chunk.js.LICENSE.txt": "/eatsbydrei/static/js/2.b6c8e6ff.chunk.js.LICENSE.txt",
+    "static/css/main.72ab987d.chunk.css.map": "/eatsbydrei/static/css/main.72ab987d.chunk.css.map",
+    "static/js/2.2b12d1fe.chunk.js.LICENSE.txt": "/eatsbydrei/static/js/2.2b12d1fe.chunk.js.LICENSE.txt",
     "static/media/glyph-logo_May2016.png": "/eatsbydrei/static/media/glyph-logo_May2016.0e84d592.png",
-    "static/media/landing.css": "/eatsbydrei/static/media/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545.3ecfd731.jpg",
+    "static/media/index.css": "/eatsbydrei/static/media/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545.a4664147.jpg",
     "static/media/youtube-1.png": "/eatsbydrei/static/media/youtube-1.131fabda.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b985fdfe.js",
-    "static/js/2.b6c8e6ff.chunk.js",
-    "static/css/main.048b2473.chunk.css",
-    "static/js/main.21770a9f.chunk.js"
+    "static/js/2.2b12d1fe.chunk.js",
+    "static/css/main.72ab987d.chunk.css",
+    "static/js/main.425747f3.chunk.js"
   ]
 }
