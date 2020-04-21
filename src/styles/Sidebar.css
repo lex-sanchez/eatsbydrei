@@ -1,7 +1,7 @@
 #flyoutMenu {
-    width: 10vw;
+    width: auto;
     height: 100vh;
-    background-color: darkgray;
+    background-color: #a49898;
     position: fixed;
     top: 0;
     left: 0;
@@ -11,6 +11,7 @@
     z-index: 1000;
     text-align: justify;
     word-wrap: break-word;
+    opacity: 0.9;
 }
 
 .pages-container {
@@ -19,6 +20,7 @@
     justify-content: center !important;
     align-items: center !important;
     flex-direction: column;
+    padding-right: 10px;
 }
 
 #flyoutMenu.hide {
@@ -34,8 +36,10 @@
     color: #333;
     margin-left: 15px;
     text-decoration: none;
+    font-weight: bolder;
 }
 
 #flyoutMenu h3 a:hover {
     text-decoration: underline;
+    color: white;
 }
