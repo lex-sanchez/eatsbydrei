@@ -43,11 +43,11 @@ class App extends React.Component {
                 handleMouseUp={this.handleMouseUp}
                 menuVisibility={this.state.visible}
             />
-            <Router>
+            <Router basename="eatsbydrei">
               <Switch>
-                <Route exact path="/eatsbydrei" render={() => <Landing handleMouseUp={this.handleMouseUp}/>} />
-                <Route exact path="/eatsbydrei/about" render={() => <button onClick={() => console.log('Dumbass')}>About me</button>} />
-                <Route exact path="/eatsbydrei/my-food" render={() => <FoodPosts />} />
+                <Route exact path="/" render={() => <Landing handleMouseUp={this.handleMouseUp}/>} />
+                <Route exact path="/about" render={() => <button onClick={() => console.log('Dumbass')}>About me</button>} />
+                <Route exact path="/my-food" render={() => <FoodPosts />} />
               </Switch>
             </Router>
         </div>
