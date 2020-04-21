@@ -22,8 +22,8 @@ class FoodPosts extends React.Component {
                 const igInfo = get(data, 'graphql.user.edge_owner_to_timeline_media.edges', [])
                     .filter(data => get(data, 'node.__typename') !== "GraphVideo");
                 console.log(igInfo);
-                const posts = igInfo.map(data => get(data, 'node.display_url'))
-                this.setState({ isFetchingData: false, posts })
+                const posts = igInfo.map(data => get(data, 'node.display_url'));
+                this.setState({ isFetchingData: false, posts });
             })
     }
 
@@ -47,6 +47,10 @@ class FoodPosts extends React.Component {
         const imageEls = this.generateImageEls();
         return (
             <div className="food-container">
+                <div className="header">
+                    <h1>My Latest Work</h1>
+                    <hr></hr>
+                </div>
                 <div className="images">
                     {imageEls}
                 </div>
